@@ -37,6 +37,5 @@
 ---
 
 ## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ange-agbra-07a7a9234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ange-agbra-07a7a9234)
 
